@@ -12,3 +12,8 @@ Project objective was to answer a potential of this customer the following quest
 We apply a monthly and annual comparison to it. We suggest and accept a comparison of the monthly and annual information index.
 Among other implementations carried out to give better visibility to the results of the purchasing sector.
 Savings in purchases show the savings achieved and the costs that were avoided in each purchase. Enabling the manager (s) to develop strategies to increase the Organization's results.
+
+# Dado (Data) 
+Todos os dados são fictícios, implementados de forma aleatória.
+
+All data is fictitious, implemented at random.
